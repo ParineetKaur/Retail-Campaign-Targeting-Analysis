@@ -1,0 +1,301 @@
+product_id,product_name,category,brand
+P0001,Brightline Electronics 01,Electronics,Brightline
+P0002,Everly Electronics 02,Electronics,Everly
+P0003,Orion Electronics 03,Electronics,Orion
+P0004,Cedar Electronics 04,Electronics,Cedar
+P0005,Summit Electronics 05,Electronics,Summit
+P0006,Cedar Electronics 06,Electronics,Cedar
+P0007,Summit Electronics 07,Electronics,Summit
+P0008,Summit Electronics 08,Electronics,Summit
+P0009,Apex Electronics 09,Electronics,Apex
+P0010,Apex Electronics 10,Electronics,Apex
+P0011,Vantage Electronics 11,Electronics,Vantage
+P0012,Cedar Electronics 12,Electronics,Cedar
+P0013,Northstar Electronics 13,Electronics,Northstar
+P0014,Vantage Electronics 14,Electronics,Vantage
+P0015,Vantage Electronics 15,Electronics,Vantage
+P0016,Northstar Electronics 16,Electronics,Northstar
+P0017,Summit Electronics 17,Electronics,Summit
+P0018,Cedar Electronics 18,Electronics,Cedar
+P0019,Apex Electronics 19,Electronics,Apex
+P0020,Vantage Electronics 20,Electronics,Vantage
+P0021,Summit Electronics 21,Electronics,Summit
+P0022,Cedar Electronics 22,Electronics,Cedar
+P0023,Cedar Electronics 23,Electronics,Cedar
+P0024,Orion Electronics 24,Electronics,Orion
+P0025,Brightline Electronics 25,Electronics,Brightline
+P0026,Northstar Electronics 26,Electronics,Northstar
+P0027,Vantage Electronics 27,Electronics,Vantage
+P0028,Summit Electronics 28,Electronics,Summit
+P0029,Apex Electronics 29,Electronics,Apex
+P0030,Vantage Electronics 30,Electronics,Vantage
+P0031,Vantage Electronics 31,Electronics,Vantage
+P0032,Everly Electronics 32,Electronics,Everly
+P0033,Cedar Electronics 33,Electronics,Cedar
+P0034,Summit Electronics 34,Electronics,Summit
+P0035,Everly Electronics 35,Electronics,Everly
+P0036,Apex Electronics 36,Electronics,Apex
+P0037,Everly Electronics 37,Electronics,Everly
+P0038,Everly Electronics 38,Electronics,Everly
+P0039,Brightline Electronics 39,Electronics,Brightline
+P0040,Orion Electronics 40,Electronics,Orion
+P0041,Orion Electronics 41,Electronics,Orion
+P0042,Vantage Electronics 42,Electronics,Vantage
+P0043,Brightline Electronics 43,Electronics,Brightline
+P0044,Summit Electronics 44,Electronics,Summit
+P0045,Cedar Electronics 45,Electronics,Cedar
+P0046,Apex Electronics 46,Electronics,Apex
+P0047,Brightline Electronics 47,Electronics,Brightline
+P0048,Everly Electronics 48,Electronics,Everly
+P0049,Vantage Electronics 49,Electronics,Vantage
+P0050,Summit Electronics 50,Electronics,Summit
+P0051,Everly Electronics 51,Electronics,Everly
+P0052,Vantage Electronics 52,Electronics,Vantage
+P0053,Apex Electronics 53,Electronics,Apex
+P0054,Apex Electronics 54,Electronics,Apex
+P0055,Brightline Electronics 55,Electronics,Brightline
+P0056,Summit Furniture 01,Furniture,Summit
+P0057,Northstar Furniture 02,Furniture,Northstar
+P0058,Northstar Furniture 03,Furniture,Northstar
+P0059,Cedar Furniture 04,Furniture,Cedar
+P0060,Everly Furniture 05,Furniture,Everly
+P0061,Apex Furniture 06,Furniture,Apex
+P0062,Brightline Furniture 07,Furniture,Brightline
+P0063,Cedar Furniture 08,Furniture,Cedar
+P0064,Orion Furniture 09,Furniture,Orion
+P0065,Northstar Furniture 10,Furniture,Northstar
+P0066,Apex Furniture 11,Furniture,Apex
+P0067,Brightline Furniture 12,Furniture,Brightline
+P0068,Apex Furniture 13,Furniture,Apex
+P0069,Summit Furniture 14,Furniture,Summit
+P0070,Cedar Furniture 15,Furniture,Cedar
+P0071,Apex Furniture 16,Furniture,Apex
+P0072,Cedar Furniture 17,Furniture,Cedar
+P0073,Summit Furniture 18,Furniture,Summit
+P0074,Apex Furniture 19,Furniture,Apex
+P0075,Northstar Furniture 20,Furniture,Northstar
+P0076,Cedar Furniture 21,Furniture,Cedar
+P0077,Brightline Furniture 22,Furniture,Brightline
+P0078,Everly Furniture 23,Furniture,Everly
+P0079,Northstar Furniture 24,Furniture,Northstar
+P0080,Cedar Furniture 25,Furniture,Cedar
+P0081,Apex Furniture 26,Furniture,Apex
+P0082,Summit Furniture 27,Furniture,Summit
+P0083,Northstar Furniture 28,Furniture,Northstar
+P0084,Vantage Furniture 29,Furniture,Vantage
+P0085,Orion Furniture 30,Furniture,Orion
+P0086,Vantage Furniture 31,Furniture,Vantage
+P0087,Brightline Furniture 32,Furniture,Brightline
+P0088,Vantage Furniture 33,Furniture,Vantage
+P0089,Summit Furniture 34,Furniture,Summit
+P0090,Northstar Furniture 35,Furniture,Northstar
+P0091,Cedar Furniture 36,Furniture,Cedar
+P0092,Apex Furniture 37,Furniture,Apex
+P0093,Brightline Furniture 38,Furniture,Brightline
+P0094,Orion Furniture 39,Furniture,Orion
+P0095,Vantage Furniture 40,Furniture,Vantage
+P0096,Everly Furniture 41,Furniture,Everly
+P0097,Summit Furniture 42,Furniture,Summit
+P0098,Everly Furniture 43,Furniture,Everly
+P0099,Apex Furniture 44,Furniture,Apex
+P0100,Summit Furniture 45,Furniture,Summit
+P0101,Northstar Office Supplies 01,Office Supplies,Northstar
+P0102,Vantage Office Supplies 02,Office Supplies,Vantage
+P0103,Apex Office Supplies 03,Office Supplies,Apex
+P0104,Brightline Office Supplies 04,Office Supplies,Brightline
+P0105,Everly Office Supplies 05,Office Supplies,Everly
+P0106,Cedar Office Supplies 06,Office Supplies,Cedar
+P0107,Orion Office Supplies 07,Office Supplies,Orion
+P0108,Northstar Office Supplies 08,Office Supplies,Northstar
+P0109,Northstar Office Supplies 09,Office Supplies,Northstar
+P0110,Vantage Office Supplies 10,Office Supplies,Vantage
+P0111,Vantage Office Supplies 11,Office Supplies,Vantage
+P0112,Summit Office Supplies 12,Office Supplies,Summit
+P0113,Brightline Office Supplies 13,Office Supplies,Brightline
+P0114,Northstar Office Supplies 14,Office Supplies,Northstar
+P0115,Brightline Office Supplies 15,Office Supplies,Brightline
+P0116,Orion Office Supplies 16,Office Supplies,Orion
+P0117,Northstar Office Supplies 17,Office Supplies,Northstar
+P0118,Everly Office Supplies 18,Office Supplies,Everly
+P0119,Brightline Office Supplies 19,Office Supplies,Brightline
+P0120,Cedar Office Supplies 20,Office Supplies,Cedar
+P0121,Everly Office Supplies 21,Office Supplies,Everly
+P0122,Summit Office Supplies 22,Office Supplies,Summit
+P0123,Apex Office Supplies 23,Office Supplies,Apex
+P0124,Apex Office Supplies 24,Office Supplies,Apex
+P0125,Apex Office Supplies 25,Office Supplies,Apex
+P0126,Cedar Office Supplies 26,Office Supplies,Cedar
+P0127,Cedar Office Supplies 27,Office Supplies,Cedar
+P0128,Northstar Office Supplies 28,Office Supplies,Northstar
+P0129,Orion Office Supplies 29,Office Supplies,Orion
+P0130,Northstar Office Supplies 30,Office Supplies,Northstar
+P0131,Brightline Office Supplies 31,Office Supplies,Brightline
+P0132,Summit Office Supplies 32,Office Supplies,Summit
+P0133,Northstar Office Supplies 33,Office Supplies,Northstar
+P0134,Summit Office Supplies 34,Office Supplies,Summit
+P0135,Everly Office Supplies 35,Office Supplies,Everly
+P0136,Northstar Office Supplies 36,Office Supplies,Northstar
+P0137,Orion Office Supplies 37,Office Supplies,Orion
+P0138,Summit Office Supplies 38,Office Supplies,Summit
+P0139,Apex Office Supplies 39,Office Supplies,Apex
+P0140,Vantage Office Supplies 40,Office Supplies,Vantage
+P0141,Cedar Office Supplies 41,Office Supplies,Cedar
+P0142,Summit Office Supplies 42,Office Supplies,Summit
+P0143,Northstar Office Supplies 43,Office Supplies,Northstar
+P0144,Apex Office Supplies 44,Office Supplies,Apex
+P0145,Everly Office Supplies 45,Office Supplies,Everly
+P0146,Vantage Office Supplies 46,Office Supplies,Vantage
+P0147,Brightline Office Supplies 47,Office Supplies,Brightline
+P0148,Vantage Office Supplies 48,Office Supplies,Vantage
+P0149,Summit Office Supplies 49,Office Supplies,Summit
+P0150,Vantage Office Supplies 50,Office Supplies,Vantage
+P0151,Northstar Office Supplies 51,Office Supplies,Northstar
+P0152,Cedar Office Supplies 52,Office Supplies,Cedar
+P0153,Brightline Office Supplies 53,Office Supplies,Brightline
+P0154,Northstar Office Supplies 54,Office Supplies,Northstar
+P0155,Cedar Office Supplies 55,Office Supplies,Cedar
+P0156,Brightline Office Supplies 56,Office Supplies,Brightline
+P0157,Cedar Office Supplies 57,Office Supplies,Cedar
+P0158,Brightline Office Supplies 58,Office Supplies,Brightline
+P0159,Summit Office Supplies 59,Office Supplies,Summit
+P0160,Vantage Office Supplies 60,Office Supplies,Vantage
+P0161,Vantage Office Supplies 61,Office Supplies,Vantage
+P0162,Brightline Office Supplies 62,Office Supplies,Brightline
+P0163,Apex Office Supplies 63,Office Supplies,Apex
+P0164,Everly Office Supplies 64,Office Supplies,Everly
+P0165,Orion Office Supplies 65,Office Supplies,Orion
+P0166,Orion Office Supplies 66,Office Supplies,Orion
+P0167,Orion Office Supplies 67,Office Supplies,Orion
+P0168,Brightline Office Supplies 68,Office Supplies,Brightline
+P0169,Orion Office Supplies 69,Office Supplies,Orion
+P0170,Summit Office Supplies 70,Office Supplies,Summit
+P0171,Northstar Office Supplies 71,Office Supplies,Northstar
+P0172,Orion Office Supplies 72,Office Supplies,Orion
+P0173,Apex Office Supplies 73,Office Supplies,Apex
+P0174,Orion Office Supplies 74,Office Supplies,Orion
+P0175,Summit Office Supplies 75,Office Supplies,Summit
+P0176,Northstar Apparel 01,Apparel,Northstar
+P0177,Summit Apparel 02,Apparel,Summit
+P0178,Northstar Apparel 03,Apparel,Northstar
+P0179,Brightline Apparel 04,Apparel,Brightline
+P0180,Vantage Apparel 05,Apparel,Vantage
+P0181,Vantage Apparel 06,Apparel,Vantage
+P0182,Vantage Apparel 07,Apparel,Vantage
+P0183,Apex Apparel 08,Apparel,Apex
+P0184,Apex Apparel 09,Apparel,Apex
+P0185,Everly Apparel 10,Apparel,Everly
+P0186,Everly Apparel 11,Apparel,Everly
+P0187,Everly Apparel 12,Apparel,Everly
+P0188,Apex Apparel 13,Apparel,Apex
+P0189,Apex Apparel 14,Apparel,Apex
+P0190,Vantage Apparel 15,Apparel,Vantage
+P0191,Summit Apparel 16,Apparel,Summit
+P0192,Brightline Apparel 17,Apparel,Brightline
+P0193,Everly Apparel 18,Apparel,Everly
+P0194,Cedar Apparel 19,Apparel,Cedar
+P0195,Summit Apparel 20,Apparel,Summit
+P0196,Everly Apparel 21,Apparel,Everly
+P0197,Cedar Apparel 22,Apparel,Cedar
+P0198,Apex Apparel 23,Apparel,Apex
+P0199,Orion Apparel 24,Apparel,Orion
+P0200,Northstar Apparel 25,Apparel,Northstar
+P0201,Everly Apparel 26,Apparel,Everly
+P0202,Northstar Apparel 27,Apparel,Northstar
+P0203,Apex Apparel 28,Apparel,Apex
+P0204,Summit Apparel 29,Apparel,Summit
+P0205,Apex Apparel 30,Apparel,Apex
+P0206,Orion Apparel 31,Apparel,Orion
+P0207,Northstar Apparel 32,Apparel,Northstar
+P0208,Everly Apparel 33,Apparel,Everly
+P0209,Apex Apparel 34,Apparel,Apex
+P0210,Northstar Apparel 35,Apparel,Northstar
+P0211,Brightline Apparel 36,Apparel,Brightline
+P0212,Summit Apparel 37,Apparel,Summit
+P0213,Cedar Apparel 38,Apparel,Cedar
+P0214,Everly Apparel 39,Apparel,Everly
+P0215,Northstar Apparel 40,Apparel,Northstar
+P0216,Vantage Apparel 41,Apparel,Vantage
+P0217,Orion Apparel 42,Apparel,Orion
+P0218,Apex Apparel 43,Apparel,Apex
+P0219,Vantage Apparel 44,Apparel,Vantage
+P0220,Apex Apparel 45,Apparel,Apex
+P0221,Everly Apparel 46,Apparel,Everly
+P0222,Orion Apparel 47,Apparel,Orion
+P0223,Apex Apparel 48,Apparel,Apex
+P0224,Everly Apparel 49,Apparel,Everly
+P0225,Summit Apparel 50,Apparel,Summit
+P0226,Northstar Apparel 51,Apparel,Northstar
+P0227,Brightline Apparel 52,Apparel,Brightline
+P0228,Orion Apparel 53,Apparel,Orion
+P0229,Orion Apparel 54,Apparel,Orion
+P0230,Cedar Apparel 55,Apparel,Cedar
+P0231,Everly Apparel 56,Apparel,Everly
+P0232,Apex Apparel 57,Apparel,Apex
+P0233,Summit Apparel 58,Apparel,Summit
+P0234,Northstar Apparel 59,Apparel,Northstar
+P0235,Everly Apparel 60,Apparel,Everly
+P0236,Brightline Home & Kitchen 01,Home & Kitchen,Brightline
+P0237,Northstar Home & Kitchen 02,Home & Kitchen,Northstar
+P0238,Cedar Home & Kitchen 03,Home & Kitchen,Cedar
+P0239,Apex Home & Kitchen 04,Home & Kitchen,Apex
+P0240,Cedar Home & Kitchen 05,Home & Kitchen,Cedar
+P0241,Cedar Home & Kitchen 06,Home & Kitchen,Cedar
+P0242,Summit Home & Kitchen 07,Home & Kitchen,Summit
+P0243,Cedar Home & Kitchen 08,Home & Kitchen,Cedar
+P0244,Cedar Home & Kitchen 09,Home & Kitchen,Cedar
+P0245,Summit Home & Kitchen 10,Home & Kitchen,Summit
+P0246,Orion Home & Kitchen 11,Home & Kitchen,Orion
+P0247,Everly Home & Kitchen 12,Home & Kitchen,Everly
+P0248,Brightline Home & Kitchen 13,Home & Kitchen,Brightline
+P0249,Cedar Home & Kitchen 14,Home & Kitchen,Cedar
+P0250,Brightline Home & Kitchen 15,Home & Kitchen,Brightline
+P0251,Orion Home & Kitchen 16,Home & Kitchen,Orion
+P0252,Cedar Home & Kitchen 17,Home & Kitchen,Cedar
+P0253,Summit Home & Kitchen 18,Home & Kitchen,Summit
+P0254,Northstar Home & Kitchen 19,Home & Kitchen,Northstar
+P0255,Northstar Home & Kitchen 20,Home & Kitchen,Northstar
+P0256,Cedar Home & Kitchen 21,Home & Kitchen,Cedar
+P0257,Northstar Home & Kitchen 22,Home & Kitchen,Northstar
+P0258,Everly Home & Kitchen 23,Home & Kitchen,Everly
+P0259,Brightline Home & Kitchen 24,Home & Kitchen,Brightline
+P0260,Orion Home & Kitchen 25,Home & Kitchen,Orion
+P0261,Northstar Home & Kitchen 26,Home & Kitchen,Northstar
+P0262,Summit Home & Kitchen 27,Home & Kitchen,Summit
+P0263,Orion Home & Kitchen 28,Home & Kitchen,Orion
+P0264,Everly Home & Kitchen 29,Home & Kitchen,Everly
+P0265,Summit Home & Kitchen 30,Home & Kitchen,Summit
+P0266,Everly Home & Kitchen 31,Home & Kitchen,Everly
+P0267,Everly Home & Kitchen 32,Home & Kitchen,Everly
+P0268,Apex Home & Kitchen 33,Home & Kitchen,Apex
+P0269,Apex Home & Kitchen 34,Home & Kitchen,Apex
+P0270,Brightline Home & Kitchen 35,Home & Kitchen,Brightline
+P0271,Vantage Home & Kitchen 36,Home & Kitchen,Vantage
+P0272,Cedar Home & Kitchen 37,Home & Kitchen,Cedar
+P0273,Brightline Home & Kitchen 38,Home & Kitchen,Brightline
+P0274,Orion Home & Kitchen 39,Home & Kitchen,Orion
+P0275,Cedar Home & Kitchen 40,Home & Kitchen,Cedar
+P0276,Cedar Home & Kitchen 41,Home & Kitchen,Cedar
+P0277,Everly Home & Kitchen 42,Home & Kitchen,Everly
+P0278,Northstar Home & Kitchen 43,Home & Kitchen,Northstar
+P0279,Cedar Home & Kitchen 44,Home & Kitchen,Cedar
+P0280,Apex Home & Kitchen 45,Home & Kitchen,Apex
+P0281,Vantage Home & Kitchen 46,Home & Kitchen,Vantage
+P0282,Summit Home & Kitchen 47,Home & Kitchen,Summit
+P0283,Everly Home & Kitchen 48,Home & Kitchen,Everly
+P0284,Everly Home & Kitchen 49,Home & Kitchen,Everly
+P0285,Summit Home & Kitchen 50,Home & Kitchen,Summit
+P0286,Orion Home & Kitchen 51,Home & Kitchen,Orion
+P0287,Orion Home & Kitchen 52,Home & Kitchen,Orion
+P0288,Vantage Home & Kitchen 53,Home & Kitchen,Vantage
+P0289,Cedar Home & Kitchen 54,Home & Kitchen,Cedar
+P0290,Vantage Home & Kitchen 55,Home & Kitchen,Vantage
+P0291,Vantage Home & Kitchen 56,Home & Kitchen,Vantage
+P0292,Northstar Home & Kitchen 57,Home & Kitchen,Northstar
+P0293,Orion Home & Kitchen 58,Home & Kitchen,Orion
+P0294,Orion Home & Kitchen 59,Home & Kitchen,Orion
+P0295,Summit Home & Kitchen 60,Home & Kitchen,Summit
+P0296,Brightline Home & Kitchen 61,Home & Kitchen,Brightline
+P0297,Cedar Home & Kitchen 62,Home & Kitchen,Cedar
+P0298,Vantage Home & Kitchen 63,Home & Kitchen,Vantage
+P0299,Everly Home & Kitchen 64,Home & Kitchen,Everly
+P0300,Apex Home & Kitchen 65,Home & Kitchen,Apex
