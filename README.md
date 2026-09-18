@@ -2,7 +2,7 @@
 
 Goal: Learn from the dataset who to target, when to send, and what to promote using SQL. 
 
-## Business Question: How should a retailer target and time a promotional campaign for West-region and Consumer-segment customers, based on purchasing activity and product preferences?
+### Business Question: How should a retailer target and time a promotional campaign for West-region and Consumer-segment customers, based on purchasing activity and product preferences?
 
 ## Data
 Four tables (`customers`, `orders`, `order_items`, `products`) covering 5,000 customers and 25,000 orders from Jan 2024 to Dec 2025.
